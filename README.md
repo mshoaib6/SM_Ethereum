@@ -6,4 +6,4 @@ Launch yarn: yarn start
 
 Build using: yarn build
 
-[1] Krouspy: Ethereum - Selfish Mining 
+[1] Krouspy
